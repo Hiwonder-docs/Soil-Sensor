@@ -1,6 +1,6 @@
 # 1. Soil Moisture Sensor
 
-<img class="common_img" src="../_static/media/chapter_1/section_1/media/image2.png" style="width:300px"/>
+<img class="common_img" src="../_static/media/chapter_1/section_1/media/image2.png" style="width:500px"/>
 
 ## 1.1 Product Introduction
 
