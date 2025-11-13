@@ -80,11 +80,11 @@ Using the sensor with Arduino UNO to help you get quick experience.
 
 Take connecting 4PIN wire to A2 and A3 port on Arduino expansion board as example.
 
-<img class="common_img" src="../_static/media/chapter_1/section_1/media/image3.png" style="width:500px" />
+<img class="common_img" src="../_static/media/chapter_1/section_1/media/image3.png" style="width:700px" />
 
 Please note that if not using Arduino expansion board, you need to connect sensor to Arduino demo board through Dupont line as following.
 
-<img class="common_img" src="../_static/media/chapter_1/section_1/media/image4.png" style="width:500px" />
+<img class="common_img" src="../_static/media/chapter_1/section_1/media/image4.png" style="width:700px" />
 
 ### 1.3.3 Project Process
 
